@@ -11,7 +11,7 @@
 | # | Project | Core Concept | Status |
 |---|---------|-------------|--------|
 | 01 | 🛡️ SchemaShield — Structured Output Agent | Pydantic validation + retry logic | ✅ Done |
-| 02 | 📚 DocuMind — RAG Agent with Citation Grounding | Vector search + citations | ⏳ Coming |
+| 02 | 📚 DocuMind — RAG Agent with Citation Grounding | Vector search + citations | ✅ Done |
 | 03 | 🔄 ThinkLoop — ReAct Planning Agent | Reason + Act + Observe | ⏳ Coming |
 | 04 | 🔧 ToolForge — Multi-Tool Orchestrator | Dynamic tool selection | ⏳ Coming |
 | 05 | 🧠 MemoryMesh — Memory Conversational Agent | Short + long term memory | ⏳ Coming |
