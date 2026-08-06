@@ -1,1 +1,0 @@
-# SchemaShield — Structured Output Agent
