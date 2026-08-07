@@ -13,7 +13,7 @@
 | 01 | 🛡️ SchemaShield — Structured Output Agent | Pydantic validation + retry logic | ✅ Done |
 | 02 | 📚 DocuMind — RAG Agent with Citation Grounding | Vector search + citations | ✅ Done |
 | 03 | 🔄 ThinkLoop — ReAct Planning Agent | Reason + Act + Observe | ✅ Done |
-| 04 | 🔧 ToolForge — Multi-Tool Orchestrator | Dynamic tool selection | ⏳ Coming |
+| 04 | 🔧 ToolForge — Multi-Tool Orchestrator | Dynamic tool selection | ✅ Done |
 | 05 | 🧠 MemoryMesh — Memory Conversational Agent | Short + long term memory | ⏳ Coming |
 | 06 | 🚦 GuardGate — Human-in-the-Loop Agent | Confidence-based escalation | ⏳ Coming |
 | 07 | 💰 RouteIQ — Cost-Aware Agent Router | Model routing by complexity | ⏳ Coming |
